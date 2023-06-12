@@ -6,7 +6,7 @@ export let url : string
 export let mediaurl : string
 export let internalURL : string
 if(!production){
-     url = 'http://127.0.0.1:8000/'
+     url = 'http://127.0.0.1:8790/'
      mediaurl ='http://127.0.0.1:8790'
 
 }
