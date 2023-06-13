@@ -1,7 +1,6 @@
 <script>
-  import {
-    mediaurl
-  } from '$lib/config';
+  
+  import { mediaurl } from '$lib/config';
   export let data
   console.log(data)
 </script>
