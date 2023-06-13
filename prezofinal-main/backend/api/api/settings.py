@@ -27,8 +27,8 @@ SECRET_KEY = 'django-insecure-7fnynm=dny3**t87ec**2h^^0v9_d8d&%5ik_$jjo5(3tmwv%4
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS = ['http://109.74.197.176:8790','http://109.74.197.176:8790/',
-                        'http://localhost:5173/','http://localhost:5173']
+CSRF_TRUSTED_ORIGINS = ['http://192.168.201.20:8790','http://192.168.201.20:8790/',
+                        'http://41.242.51.98:443/','http://41.242.51.98:443']
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOW_ALL_ORIGINS = True #['https://admin.volksmining.com/']
 
