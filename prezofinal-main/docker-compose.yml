@@ -6,7 +6,7 @@ services:
     ports:
       - "8790:8790"
     volumes:
-      - .:/code
+      - ./volumes/api:/code
     environment:
       - DEBUG=1
  
@@ -15,7 +15,7 @@ services:
       ports:
         - "3000:3000"
       volumes:
-        - .:/client
+        - .volumes/client:/client
       environment:
         - DEBUG=1
  
