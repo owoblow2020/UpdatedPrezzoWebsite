@@ -40,7 +40,7 @@
         with exceptional attention to detail, all at reasonable prices.
     </h3>
 
-    <img class="w-full md:w-[45%] lg:w-[35%]" src="/mission.png" alt="">
+    <img class="w-full md:w-[45%] lg:w-[35%]" src="/banner1.png" alt="">
 
 
 </div>
