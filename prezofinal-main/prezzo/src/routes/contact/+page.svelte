@@ -10,7 +10,6 @@
 
 
 
-<!-- svelte-ignore a11y-missing-attribute -->
 <!--
 <iframe src="https://www.google.com/maps/embed?pb=!1m19!1m12!1m3!1d507383.4605144208!2d7.490118686202564!3d8.96268092866987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m4!3e6!4m0!4m1!2sNO%206%2C%20Lumsar%20street%2C%20Abacha%20Estate%2C%20Zone%204%2C%20Abuja!5e0!3m2!1sen!2sng!4v1679553034918!5m2!1sen!2sng" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class=" pt-[2rem]"></iframe>
  Edited location GMap -->

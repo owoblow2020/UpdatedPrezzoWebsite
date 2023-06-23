@@ -28,7 +28,6 @@
 
 </div>
 
-
 <h2 class=" text-center text-[#23286b] pt-[3rem] pb-[1rem] font-bold text-lg lg:pt-[4rem] ">Our Mission</h2>
 
 <div class=" flex flex-col md:flex-row lg:flex-row px-3 items-center justify-center gap-[2rem] lg:px-[5rem] lg:items-center lg:gap-[2rem] lg:justify-center lg:w-full ">
